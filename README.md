@@ -1,2 +1,2 @@
 # wink-squared
-A computer vision wink detector!
+A wink detecting PDF reader!
